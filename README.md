@@ -4,6 +4,8 @@ Obtained Data :
 
 <img src="data.png" /img>
 
+![picture](data.png)
+
 On Click of Button :
 
 <br />
@@ -16,6 +18,6 @@ On Click of Button :
 
 Get the data from the url and post it on HTML page using jQery Ajax.
 
-<img src="output.png" /img>
+![picture](output.png)
 
 <b> Done. </b> 
