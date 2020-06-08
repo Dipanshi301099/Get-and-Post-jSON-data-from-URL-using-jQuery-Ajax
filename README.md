@@ -2,8 +2,6 @@
 
 Obtained Data :
 
-<img src="data.png" /img>
-
 ![picture](data.png)
 
 On Click of Button :
